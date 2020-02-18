@@ -6,14 +6,14 @@
 						<p class="animate-box" data-animate-effect="fadeInLeft"> Arovecha tus canales de comunicacion para pontenciar tu marca</p>
 					</div>
 					<div class="col-md-6 col-md-push-1 animate-box" data-animate-effect="fadeInLeft">
-						<img src="<?php echo base_url() ?>/assets/images/img_1.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"> 
+						<img src="<?php echo base_url() ?>/assets/images/img_1.png" alt="Free HTML5 Bootstrap Template" class="img-responsive"> 
 					</div>
 				</div>
 				
 			</div>
 
 			
-asdasdsadasddaafsffs
+
 			<div class="fh5co-counters" style="background-image: url(images/hero.jpg);" data-stellar-background-ratio="0.5" id="counter-animate">
 				<div class="fh5co-narrow-content animate-box">
 					<div class="row" >
