@@ -54,7 +54,7 @@
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.theme.default.min.css">
 	<!-- Theme style  -->
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style.css">
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style2.css">
 
 	<!-- Modernizr JS -->
 	<script src="<?php echo base_url() ?>assets/js/modernizr-2.6.2.min.js"></script>
